@@ -1,2 +1,2 @@
 # BomberMan
-Remade version of vintage Bomberman with c++ "SFML Library "
+Remade version of Classic Bomberman Game with c++ "SFML Library "
